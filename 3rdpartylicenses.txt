@@ -1,3 +1,6 @@
+@almaobservatory/ngx-datatable
+MIT
+
 @angular/common
 MIT
 
@@ -8,9 +11,6 @@ MIT
 MIT
 
 @angular/router
-MIT
-
-@stefancuriban/ngx-datatable
 MIT
 
 rxjs
